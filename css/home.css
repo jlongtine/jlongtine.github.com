@@ -1,0 +1,20 @@
+#container header #pics {
+  float: left;
+  width: 300px; }
+  #container header #pics img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; }
+#container header #joel-overview {
+  float: right; }
+  #container header #joel-overview p {
+    font-size: 3em;
+    text-align: right; }
+#container #content {
+  clear: both; }
+  #container #content p {
+    font-size: 1.2em; }
+  #container #content #me {
+    padding-top: 1em; }
+#container p, #container ul {
+  font-size: 1.2em; }

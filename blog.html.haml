@@ -1,0 +1,6 @@
+- @posts.each do |post|
+  %article
+    %header
+      %h1 
+        = link_to post.title, single_blog_post_url(post)
+    = post.content

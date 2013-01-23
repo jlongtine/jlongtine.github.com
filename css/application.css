@@ -1,0 +1,33 @@
+/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+ *= require_self
+ *= require_tree . 
+*/
+body {
+  font-family: "apolline",serif; }
+
+#connect {
+  position: absolute;
+  left: -100px;
+  top: 340px;
+  width: 40px; }
+  #connect ul {
+    list-style-type: none; }
+    #connect ul li {
+      width: 32px;
+      height: 32px;
+      padding: 1px 0px; }
+      #connect ul li a {
+        text-decoration: none; }
+      #connect ul li a:hover, #connect ul li a:-webkit-any-link {
+        text-decoration: none; }
+      #connect ul li img {
+        width: 32px; }
+
+#container {
+  position: relative;
+  width: 800px;
+  height: 100%;
+  margin: 0 auto; }

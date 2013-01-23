@@ -1,0 +1,41 @@
+// Place all the styles related to the Home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+
+#container {
+  header {
+    #pics {
+      float: left;
+      width: 300px;
+      img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+      }
+    }
+
+    #joel-overview {
+      float: right;
+      p {
+        font-size: 3em;
+        text-align: right;
+      }
+    }
+  }
+  #content {
+    clear:both;
+    
+    p {
+      font-size: 1.2em;
+    }
+    #me {
+      padding-top: 1em;
+    }
+  }
+  
+  p, ul {
+    font-size: 1.2em;
+  }
+}
