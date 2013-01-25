@@ -1,2 +1,2 @@
-haml_folder: **/*.haml
-sass_folder: **/*.sass
+post_dirs: false
+permalink: pretty
