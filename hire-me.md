@@ -34,6 +34,8 @@ I learned a lot about large scale Java development and deployment at Tyler. They
 
 I got a security clearance and made decent money as a intern. That about sums up what I did and learned there. Oh, and that I don't like huge beaucratic companies. 
 
+*Out into industry*
+
 As I was finishing up my degree I found myself very ready (chomping at the bit, you might say) to apply it to the world of startups. Which brought me to Socialthing. At Socialthing we built a social media aggregator. You could log in as a user, and see all of your friend's activity, across all of your social networks, in one place. We built it in Ruby, Ruby on Rails, and Javascript in the browser. We got acquired by AOL in August of 2008 and were brought on to build our technology out on their stack. We helped with the Bebo news feed, adding data from Twitter, Flickr, etc. to the stream. And we then went on to build what has become the AOL Lifestream.
 
 I left AOL in January 2010 to take a bit of time off and join [SimpleGeo](http://www.crunchbase.com/company/simplegeo), [Matt Galligan](http://mgalligan.com/)'s next startup. I spent the next year helping all over the place, in the API, helping manage the developer team as it grew from 7 developers to over a dozen, and doing website work with [Jeffrey Kalmikoff](http://www.callmejeffrey.com) and Jon Rohan. As I said, all over the place. Fun, fast-paced. Great team. I left in February 2011, not quite ready to make the jump to San Francisco, as the company transitioned all of its resources there. 
