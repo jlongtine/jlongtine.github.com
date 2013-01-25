@@ -5,6 +5,10 @@
     / = stylesheet_link_tag    "application"
     / = javascript_include_tag "application"
     / = csrf_meta_tags
+
+    %link{rel: "stylesheet", href: "/css/application.css", type: "text/css"}
+    %link{rel: "stylesheet", href: "/css/home.css", type: "text/css"}
+    %link{rel: "stylesheet", href: "/css/scaffolds.css", type: "text/css"}
     %link{:rel=>"shortcut icon", :href=>"/images/joel-beard.ico"}
     
     %script{:src => "http://use.typekit.com/hli7acj.js"}
@@ -31,10 +35,6 @@
     /     %li
     /       = link_to "Blog", blog_path
     #container
-      %header
-        #user
-          - if @user
-            = @user.name
       {{ content }}
       #connect
         %ul

@@ -3,7 +3,7 @@ layout: application
 title: "Joel Longtine : Software Engineer : Hire Me"
 ---
 
-**What I do**
+**What I do (ing)**
 
 I'm a software engineer and trained computer scientist (BS from Colorado School of Mines). I build software systems from the ground up to help solve difficult problems. I use [Ruby](http://www.ruby-lang.org/en/), [Python](http://www.python.org/), [Java](http://www.java.com/en/), [Javascript](http://en.wikipedia.org/wiki/JavaScript), and any other languages that get thrown my way ([C++](http://en.wikipedia.org/wiki/C%2B%2B), [Scala](http://www.scala-lang.org/), [Scheme](http://en.wikipedia.org/wiki/Scheme_(programming_language)), [Perl](http://www.perl.org/) are a few of the others I've dabbled in). I like building with these frameworks: [Rails](http://rubyonrails.org/), [Django](https://www.djangoproject.com/), [Node.js](http://nodejs.org/), [Dropwizard](http://dropwizard.codahale.com/), [jQuery](http://jquery.com/). And I love use these technologies: [MySQL](http://www.mysql.com/), [PostgreSQL](http://www.postgresql.org/), [Redis](http://redis.io/), [MongoDB](http://www.mongodb.org/), [Cassandra](http://cassandra.apache.org/), [Storm](http://storm-project.net/). 
 
@@ -40,4 +40,4 @@ I left AOL in January 2010 to take a bit of time off and join [SimpleGeo](http:/
 
 Since then, I've been doing software engineering contracting as well as doing a lot of personal development and self-understanding. I went through a divorce during 2011 and 2012, and, in many ways, have had my world ripped open. That's a beautiful, powerful, scary, and incredibly necessary part of life, I'm finding. This process has helped me learn so much about myself and what I am made of... and has me continually excited for the future.
 
-I also had a brief period (June-September 2012) as VP of engineering at callisto.fm, which has become Epic Playground, helping design their architecture and guide that team. Ultimately, we weren't the right fit, and through that process I learned a lot about what I'm capable of, and what I want to do and how I want to be in the world. 
+I also had a brief period (June-September 2012) as VP of engineering at [callisto.fm](http://callisto.fm), which has become [Epic Playground](http://www.epicplayground.com/), helping design their architecture and guide that team. Ultimately, we weren't the right fit, and through that process I learned a lot about what I'm capable of, and what I want to do and how I want to be in the world. 

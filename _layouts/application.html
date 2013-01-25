@@ -1,3 +1,7 @@
+---
+title: application
+---
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
   <head>
@@ -5,9 +9,9 @@
     <!-- = stylesheet_link_tag    "application" -->
     <!-- = javascript_include_tag "application" -->
     <!-- = csrf_meta_tags -->
-    <link rel="stylesheet" href="/css/scaffolds.css"/>
-    <link rel="stylesheet" href="/css/application.css"/>
-    <link rel="stylesheet" href="/css/home.css"/>
+    <link href='/css/application.css' rel='stylesheet' type='text/css' />
+    <link href='/css/home.css' rel='stylesheet' type='text/css' />
+    <link href='/css/scaffolds.css' rel='stylesheet' type='text/css' />
     <link href='/images/joel-beard.ico' rel='shortcut icon' />
     <script src='http://use.typekit.com/hli7acj.js'></script>
     <script type='text/javascript'>
@@ -38,10 +42,6 @@
     <!-- %li -->
     <!-- = link_to "Blog", blog_path -->
     <div id='container'>
-      <header>
-        <div id='user'>
-        </div>
-      </header>
       {{ content }}
       <div id='connect'>
         <ul>

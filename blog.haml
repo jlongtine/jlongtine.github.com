@@ -1,0 +1,9 @@
+{% for post in site.posts %}
+%article
+  %header
+    %h1 
+      %li
+        %span
+          {{ post.date | date_to_string }}
+        %a {{ post.title }}
+{% endfor %}

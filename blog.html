@@ -1,0 +1,14 @@
+{% for post in site.posts %}
+<article>
+  <header>
+    <h1>
+      <li>
+        <span>
+          {{ post.date | date_to_string }}
+        </span>
+        <a>{{ post.title }}</a>
+      </li>
+    </h1>
+  </header>
+</article>
+{% endfor %}
