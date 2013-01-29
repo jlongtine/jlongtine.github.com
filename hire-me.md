@@ -7,6 +7,14 @@ title: "Joel Longtine : Software Engineer : Hire Me"
 
 I'm *currently available* as a contractor on an hourly basis for 20-30 hours per week. 
 
+I'm looking to do 25-30 hrs of work per week, and want some flexibility wrt to where I do that work. If it is a Boulder company, I'd be up for going in to an office on a fairly regular basis, and for a Denver company I'm up for the same thing, but would like to keep it to a couple of times per week, in that case.
+
+My preference would be for infrastructure or data systems work: stuff like processing lots of data quickly, and figuring out clever ways to store that data for whatever use case is necessary. As an example, processing data within 10-20 seconds of receiving it, and storing that in a data store such as [Redis](http://redis.io/), [Cassandra](http://cassandra.apache.org/), or [HBase](http://hbase.apache.org/) for quick retrieval for a dashboard, or send notifications to mobile devices based on that data.
+
+Some technologies I've been playing with recently include [Ruby](http://www.ruby-lang.org/en/)/[Rails](http://rubyonrails.org/), [Java](http://www.java.com/en/), [Storm](http://storm-project.net/), [Cassandra](http://cassandra.apache.org/), and [Redis](http://redis.io/). And I love learning new technologies, so if there is some challenging problem that you want some help with or an outsider's perspective on, I'd love to help out.
+
+I also have experience managing teams, and have spent the last four years learning about human relationships and I'd love to shadow a team leader and help hone his technique, help him see how his team sees and hears him, and help him improve the effectiveness of his communication with his team. 
+
 [Contact me](mailto:thoughts@joellongtine.com). We can discuss your needs, and see if we are a good fit for one another.
 
 ## What I do
@@ -15,7 +23,7 @@ I'm a software engineer and trained computer scientist (BS from [Colorado School
 
 A few other technologies I've enjoyed dipping my toes into are [D3](http://d3js.org/), [Graphite](http://graphite.wikidot.com/), [Kafka](http://kafka.apache.org/).
 
-I like running my software on hosted hardware with companies like [Heroku](http://www.heroku.com/), and [Amazon Web Services](http://aws.amazon.com/) to help ease DevOps. 
+I like running my software on hosted hardware with companies like [Heroku](http://www.heroku.com/), and [Amazon Web Services](http://aws.amazon.com/) to help ease DevOps.
 
 All in all, I try to play with and understand as many aspects of technology as I can, including the humans that build it. I've been a part of a men's group since September 2010, and have studied Buddhism, human emotions, relationships, and human behavior in my spare time over the last 4-5 years as well. I love trying to understand how humans affect and are affected by the technologies we build.
 
